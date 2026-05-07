@@ -1,10 +1,10 @@
-# SmartBin: Autonomous Interceptor Trash Can
+# AutoBin: Autonomous Interceptor Trash Can
 
 An AI-powered robot that catches thrown objects using real-time computer vision, predictive physics, and machine learning.
 
 ## Overview
 
-SmartBin is a Raspberry Pi 4-based system that detects incoming projectiles via camera, predicts their landing position using Kalman filtering + ballistic physics (or ML), and moves a trash can underneath using PID-controlled Mecanum wheels.
+AutoBin is a Raspberry Pi 4-based system that detects incoming projectiles via camera, predicts their landing position using Kalman filtering + ballistic physics (or ML), and moves a trash can underneath using PID-controlled Mecanum wheels.
 
 **Hardware:**
 - Raspberry Pi 4
